@@ -1,2 +1,2 @@
-class A {
+class Agi {
 }
